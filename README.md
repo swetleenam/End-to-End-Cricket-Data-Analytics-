@@ -39,7 +39,4 @@ This project focuses on cricket data analytics by scraping data from ESPN Cricin
    - `bs4`
    - `selenium` (if applicable)
 
-### Steps:
-1. Clone the repository:
-   ```bash
-   git clone <repository-link>
+
